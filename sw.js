@@ -1,4 +1,4 @@
-const CACHE_NAME = "FSM-wrapper-v5";
+const CACHE_NAME = "FSM-wrapper-v6";
 const ASSETS = [
   "./",
   "./index.html",
